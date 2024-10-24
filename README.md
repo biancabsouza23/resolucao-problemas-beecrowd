@@ -13,7 +13,7 @@ Seguem, os enunciados e as respostas de cada questão da plataforma Beecrowd, qu
 
 ## Questão 2408 - Vice-Campeão (Nível 1)
 
-### O vídeo da resolução da questão pode ser acessado online pelo [link](https://drive.google.com/drive/folders/1hlfajWxbKm_UfLCTxq6fsMMLce73I8St?usp=drive_link) ou offline por [aqui](./videos/video2408.txt).
+### O vídeo da resolução da questão pode ser acessado online pelo [link](https://drive.google.com/file/d/1w6w1f5Sk05yF8AIJVIilWCpEs9FhCcpI/view?usp=drive_link) ou offline por [aqui](./videos/video2408.mp4).
 
 O enunciado da questão pode ser acessado clicando [aqui](./enunciados/enunciado-2408-Vice-Campeao.pdf).
 
@@ -26,7 +26,7 @@ Tempo de execução: <span style="color:green">0.000s</span>
 
 ## Questão 2422 - Soma das Casas (Nível 6)
 
-### O vídeo da resolução da questão pode ser acessado online pelo [link](https://drive.google.com/drive/folders/1hlfajWxbKm_UfLCTxq6fsMMLce73I8St?usp=drive_link) ou offline por [aqui](./videos/video2422.txt).
+### O vídeo da resolução da questão pode ser acessado online pelo [link](https://drive.google.com/file/d/1w6w1f5Sk05yF8AIJVIilWCpEs9FhCcpI/view?usp=drive_link) ou offline por [aqui](./videos/video2422.txt).
 
 O enunciado da questão pode ser acessado clicando [aqui](./enunciados/enunciado-2422-SomadasCasas.pdf).
 
