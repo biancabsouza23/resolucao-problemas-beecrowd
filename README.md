@@ -26,7 +26,7 @@ Tempo de execução: <span style="color:green">0.000s</span>
 
 ## Questão 2422 - Soma das Casas (Nível 6)
 
-### O vídeo da resolução da questão pode ser acessado online pelo [link](https://drive.google.com/file/d/1w6w1f5Sk05yF8AIJVIilWCpEs9FhCcpI/view?usp=drive_link) ou offline por [aqui](./videos/video2422.txt).
+### O vídeo da resolução da questão pode ser acessado online pelo [link](https://drive.google.com/file/d/1ImzEPJeCSA2sQ0sKkj18S8hkrTK6GkCH/view?usp=sharing) ou offline por [aqui](./videos/video2422.mp4).
 
 O enunciado da questão pode ser acessado clicando [aqui](./enunciados/enunciado-2422-SomadasCasas.pdf).
 
